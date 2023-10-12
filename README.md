@@ -44,10 +44,6 @@ L'application est composée des fichiers suivants :
 
 Si vous souhaitez contribuer à l'amélioration de l'application, nous sommes ouverts aux pull requests. N'hésitez pas à signaler des problèmes ou à proposer des améliorations dans la section des issues.
 
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ---
 
 Bonne utilisation !
